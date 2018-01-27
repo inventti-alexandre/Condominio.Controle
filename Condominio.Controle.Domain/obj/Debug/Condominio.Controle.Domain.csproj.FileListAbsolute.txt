@@ -1,0 +1,4 @@
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Domain\bin\Debug\Condominio.Controle.Domain.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Domain\bin\Debug\Condominio.Controle.Domain.pdb
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Domain\obj\Debug\Condominio.Controle.Domain.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Domain\obj\Debug\Condominio.Controle.Domain.pdb

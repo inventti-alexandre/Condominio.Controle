@@ -1,0 +1,12 @@
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\Condominio.Controle.Infra.Data.dll.config
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\Condominio.Controle.Infra.Data.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\Condominio.Controle.Infra.Data.pdb
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\Condominio.Controle.Domain.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\Condominio.Controle.Domain.pdb
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\obj\Debug\Condominio.Controle.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\obj\Debug\Condominio.Controle.Infra.Data.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Infra.Data\obj\Debug\Condominio.Controle.Infra.Data.pdb

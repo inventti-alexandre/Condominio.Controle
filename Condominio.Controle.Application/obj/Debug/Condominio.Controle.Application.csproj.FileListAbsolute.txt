@@ -1,0 +1,7 @@
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\bin\Debug\Condominio.Controle.Application.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\bin\Debug\Condominio.Controle.Application.pdb
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\bin\Debug\Condominio.Controle.Domain.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\bin\Debug\Condominio.Controle.Domain.pdb
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\obj\Debug\Condominio.Controle.Application.csprojResolveAssemblyReference.cache
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\obj\Debug\Condominio.Controle.Application.dll
+D:\Cursos DevMedia\Arquitetura DDD\Condominio.Controle\Condominio.Controle.Application\obj\Debug\Condominio.Controle.Application.pdb
